@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int ac, char av[]) //ищет наибольший общий делитель
+int main(int ac, char *av[]) //ищет наибольший общий делитель
 {
     int nbr1; //первое число
     int nbr2; //второе число
